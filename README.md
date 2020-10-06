@@ -1,6 +1,12 @@
 # The-Freedom-Wrapper-Project
 ![TFWPBanner](https://raw.githubusercontent.com/mdbench/The-Freedom-Wrapper-Project/master/TFWPLogo.png)
 
+## Table of Contents
+1. [What is The Freedom Wrapper Project (TFWP)?](https://github.com/mdbench/The-Freedom-Wrapper-Project#the-freedom-wrapper-project-was-created-for-a-multitude-of-reasons)
+2. [I'm new to Android App Development. How can I get up and running with TFWP?](https://github.com/mdbench/The-Freedom-Wrapper-Project#the-following-is-a-guide-on-how-to-get-set-up-with-the-freedom-wrapper-project-so-you-can-officially-make-your-own-application)
+3. [Explore further customization of your TFWP application](https://github.com/mdbench/The-Freedom-Wrapper-Project#further-customization)
+4. [Proof of Concept](https://github.com/mdbench/The-Freedom-Wrapper-Project#proof-of-concept)
+
 ##### The Freedom Wrapper Project was created for a multitude of reasons:
 
 - First, the barrier for application development on Android should be small. Android applications are an easy way to get custom-made platforms tailored to your individual needs. [Android Studio](https://developer.android.com/studio/intro) is an extremely robust tool-set and it is well-suited to make anyone a developer with little effort. No one should rely on others for those needs when possible. Sometimes coding for your first time can be overwhelming when there isn’t enough positive feedback to keep you going. Every roadblock seems like a mountain and one line of red code can wreck havoc on your psyche. While web guides are an excellent source, there are thousands of them. People have to sift through them, find which ones actually work for their needs, and the guides still leave a lot to be desired when it comes to creating an original or purposeful application. This leaves individuals without “coding skills” at the behest of individuals, corporations, and governments to provide them with mobile applications that are generally a one-size-fits-all approach.
