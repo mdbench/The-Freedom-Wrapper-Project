@@ -1,0 +1,7 @@
+<resources>
+    // this sets all the strings used for the application
+    // right now, the only string set is the name of the application
+    // you can see is listed anywhere @string/appname is specified
+    <string name="app_name">The Freedom Wrapper Project</string>
+
+</resources>
