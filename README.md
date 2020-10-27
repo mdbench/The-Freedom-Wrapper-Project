@@ -14,7 +14,7 @@
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf?showBalance=true)](https://en.cryptobadges.io/donate/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf)
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0xA2a3aEef453aD5A5d15E5418D712Bf5c78D51aA9?showBalance=true)](https://en.cryptobadges.io/donate/0xA2a3aEef453aD5A5d15E5418D712Bf5c78D51aA9)
 
-[![](https://getflywheel.com/layout/wp-content/uploads/2015/10/paypal-donate-button-large-1-1280x356.png)](https://paypal.me/mdbench)
+[![](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/Full_Online_Tray_RGB.png)](https://paypal.me/mdbench)
 
 ### The Freedom Wrapper Project was created for a multitude of reasons:
 
