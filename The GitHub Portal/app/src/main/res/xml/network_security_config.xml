@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <network-security-config>
+        <domain-config>
+            // this is a network security configuration
+            // you set the domain below to the website you are trying to "wrap"
+            // it tells the application to use the specified trust-anchors to connect to that website
+            <domain includeSubdomains="true">reddit.com</domain>
+
+            <trust-anchors>
+                // in this instance, a trust-anchor is a certificate authority (ca) a website uses
+                // a ca is used to prove the website is who it says it is
+                // for this mock wrapper, wikipedia.org uses a certificate called let's encrypt
+                // these certificates can be found on any browser by clicking on the "i" or the "lock"
+                // you can use the browser to export them for use in your application
+                // all certificates should be in a file type format called .der so you may need to convert it
+                // these ca's need to be placed in the raw folder within res
+                // use the project button on the side of android studio to navigate to the folder and take a look
+                // the name of the certificate is "letsencrypt" and is listed as an anchor below!
+                <certificates src="@raw/dchaevroot"/>
+                <certificates src="@raw/dcsha2hasca"/>
+
+            </trust-anchors>
+        </domain-config>
+    </network-security-config>
