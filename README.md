@@ -10,7 +10,7 @@
 4. [Explore further customization of your TFWP application](https://github.com/mdbench/The-Freedom-Wrapper-Project#further-customization)
 5. [Proof of Concept](https://github.com/mdbench/The-Freedom-Wrapper-Project#proof-of-concept)
 6. [Contact Me](https://github.com/mdbench/The-Freedom-Wrapper-Project#contact-me)
-7. [Official Website](https://github.com/mdbench/The-Freedom-Wrapper-Project#visit-the-freedom-wrapper-project-(tfwp)-website)
+7. [Official Website](https://github.com/mdbench/The-Freedom-Wrapper-Project#visit-the-freedom-wrapper-project-tfwp-website)
 
 ### Donate:
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf?showBalance=true)](https://en.cryptobadges.io/donate/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf)
@@ -79,6 +79,7 @@
 ### Contact Me
 
 - [Join us on Keybase!](https://keybase.io/team/tfwp)
+- [Through my website](https://www.matthewbenchimol.com/home/contact-me/)
 
 ### Visit The Freedom Wrapper Project (TFWP) Website
 
