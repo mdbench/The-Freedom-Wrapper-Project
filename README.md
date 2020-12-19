@@ -18,7 +18,7 @@
 
 [![](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/Full_Online_Tray_RGB.png)](https://paypal.me/mdbench)
 
-### The Freedom Wrapper Project was created for a multitude of reasons:
+### Why The Freedom Wrapper Project was created:
 
 - First, the barrier for application development on Android should be small. Android applications are an easy way to get custom-made platforms tailored to your individual needs. [Android Studio](https://developer.android.com/studio/intro) is an extremely robust tool-set and it is well-suited to make anyone a developer with little effort. No one should rely on others for those needs when possible. Sometimes coding for your first time can be overwhelming when there isn’t enough positive feedback to keep you going. Every roadblock seems like a mountain and one line of red code can wreck havoc on your psyche. While web guides are an excellent source, there are thousands of them. People have to sift through them, find which ones actually work for their needs, and the guides still leave a lot to be desired when it comes to creating an original or purposeful application. This leaves individuals without “coding skills” at the behest of individuals, corporations, and governments to provide them with mobile applications that are generally a one-size-fits-all approach.
 
