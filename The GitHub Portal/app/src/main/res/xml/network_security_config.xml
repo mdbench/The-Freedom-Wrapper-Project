@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
     <network-security-config>
         <domain-config>
+            <!--this is how you make a comment in xml-->
             // this is a network security configuration
             // you set the domain below to the website you are trying to "wrap"
             // it tells the application to use the specified trust-anchors to connect to that website
