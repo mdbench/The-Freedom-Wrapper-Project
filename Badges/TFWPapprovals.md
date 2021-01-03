@@ -13,6 +13,7 @@
 
 ### Here is the current list of TFWP approved Android applications (as of 12/19/2020):
 - **[Curated News](https://play.google.com/store/apps/details?id=com.matthewbenchimol.curatednews)**, a project to company created by Matthew Benchimol
+- **[Cydog Browser](https://play.google.com/store/apps/details?id=com.matthewbenchimol.cydogbrowser)**, a project and social community focused web browser by Matthew Benchimol
 
 ### Contact TFWP's Community of Developers (CoD)
 
