@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://www.paypal.com/paypalme/mdbench', 'https://en.cryptobadges.io/donate/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf', 'https://en.cryptobadges.io/donate/0xA2a3aEef453aD5A5d15E5418D712Bf5c78D51aA9']
