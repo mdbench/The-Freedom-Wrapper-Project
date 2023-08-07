@@ -60,7 +60,7 @@
 
 ### Further Customization:
 
-**The following guide will be updated occassionally, as customization is an evolving process and not an endstate. Keep that in mind and feel free to check back in occasionally for new methods and techniques.**
+**The following guide will be updated occasionally, as customization is an evolving process and not an endstate. Keep that in mind and feel free to check back in occasionally for new methods and techniques.**
 
 1. Let's say you really want to make The Freedom Wrapper Project application your own. This is the section for you! First things first, go to your preferred search engine. Type in the name of the website you are "wrapping" and click search. Go to images and grab an icon of the website you chose for your recently created application. Save it anywhere you will remember it for use in the near future. 
 
